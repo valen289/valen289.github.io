@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gametrack-frontend/static/css/main.ebea8291.css",
+    "main.js": "/gametrack-frontend/static/js/main.54dfbf62.js",
+    "index.html": "/gametrack-frontend/index.html",
+    "main.ebea8291.css.map": "/gametrack-frontend/static/css/main.ebea8291.css.map",
+    "main.54dfbf62.js.map": "/gametrack-frontend/static/js/main.54dfbf62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebea8291.css",
+    "static/js/main.54dfbf62.js"
+  ]
+}
